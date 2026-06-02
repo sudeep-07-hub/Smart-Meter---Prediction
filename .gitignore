@@ -1,0 +1,21 @@
+# Data and Models
+models/*.pkl
+data/*.csv
+*.csv
+
+# Python/Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.virtual_documents/
+.DS_Store
+
+# Virtual Environment
+anaconda_projects/
+venv/
+env/
+.env
+
+# Outputs
+output.html
+*.png
